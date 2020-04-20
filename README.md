@@ -7,8 +7,8 @@ This repository contains my progressions through the book, *Beginning React - Gr
 - Creating my Products component in a seperate file & importing that file into my main app component file (App.js). I also got an introduction to arrow functions, some ES6 coding conventions & creating and woking with arrays.
 ## Chapter 3
 - CSS Class Bindings, Props, adding local State and handling Events. 
-
-
+## Chapter 4
+- Working with Components. 
 ________________________________________________________________________________________
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
