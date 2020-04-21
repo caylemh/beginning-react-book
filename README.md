@@ -13,6 +13,8 @@ This repository contains my progressions through the book, *Beginning React - Gr
 - Conditional rendering. Learnt about *props.children*, for inserting cintent into components from the outside. Learnt about the logical if '&&' operator and the ternary operator. 
 ## Chapter 6 :+1:
 - Building forms using *Formik*. Also learnt how to handle from inputs, handle specific form field validation errors and perform form submissions. 
+## Chapter 7
+- Getting data from RESTful APIs with Axios.
 ________________________________________________________________________________________
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
