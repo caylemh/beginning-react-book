@@ -9,6 +9,8 @@ This repository contains my progressions through the book, *Beginning React - Gr
 - CSS Class Bindings, Props, adding local State and handling Events. 
 ## Chapter 4
 - Working with Components. 
+## Chapter 5
+- Conditional rendering. Learnt about *props.children*, for inserting cintent into components from the outside. Learnt about the logical if '&&' operator and the ternary operator.
 ________________________________________________________________________________________
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
