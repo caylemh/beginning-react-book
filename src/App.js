@@ -1,14 +1,18 @@
 import React, { Component } from 'react';
-import Products from './components/Products';
-import UserForm from './components/UserForm';
+// import Products from './components/Products';
+// import UserForm from './components/UserForm';
+import GitHub from './components/GitHub';
 
 class App extends Component {
   render() {        
     return (
       <div>
-        <UserForm />
-        <Products />       
+        <GitHub />
       </div>
+      // <div>
+      //   <UserForm />
+      //   <Products />       
+      // </div>
     );
   }
 }

@@ -14,7 +14,7 @@ This repository contains my progressions through the book, *Beginning React - Gr
 ## Chapter 6 :+1:
 - Building forms using *Formik*. Also learnt how to handle from inputs, handle specific form field validation errors and perform form submissions. 
 ## Chapter 7
-- Getting data from RESTful APIs with Axios.
+- Getting data from RESTful APIs with Axios.  Created a GitHub User Search App using Axios to connect my React app to the GitHub RESTful api using Promises, component lifecycle hooks & displaying a loader icon (react-loading).
 ________________________________________________________________________________________
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
