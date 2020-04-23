@@ -13,9 +13,9 @@ This repository contains my progressions through the book, *Beginning React - Gr
 - *Conditional rendering.* Learnt about *props.children*, for inserting cintent into components from the outside. Learnt about the logical if '&&' operator and the ternary operator. 
 ## Chapter 6 :+1:
 - *Building forms using Formik.* Also learnt how to handle from inputs, handle specific form field validation errors and perform form submissions. 
-## Chapter 7
+## Chapter 7 :+1:
 - *Getting data from RESTful APIs with Axios.*  Created a GitHub User Search App using Axios to connect my React app to the GitHub RESTful api using Promises, component lifecycle hooks & displaying a loader icon (react-loading).
-## Chapter 8
+## Chapter 8 :+1:
 - *Routing.* Learnt to define, configure & render requested components using the 'Route' component. Also learnt how to provide route links, how to create routes with parameters & how to retrieve those parameters. 
 ________________________________________________________________________________________
 
