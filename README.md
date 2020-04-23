@@ -4,11 +4,11 @@ This repository contains my progressions through the book, *Beginning React - Gr
 ## Chapter 1 :+1:
 - *Introduction and Setup.*
 ## Chapter 2 :+1:
-- Creating my Products component in a seperate file & importing that file into my main app component file (App.js). I also got an introduction to arrow functions, some ES6 coding conventions & creating and woking with arrays. 
+- *Creating & using Components.*Creating my Products component in a seperate file & importing that file into my main app component file (App.js). I also got an introduction to arrow functions, some ES6 coding conventions & creating and woking with arrays. 
 ## Chapter 3 :+1:
 - *CSS Class Bindings, Props, adding local State and handling Events.* 
 ## Chapter 4 :+1:
-- Working with Components. 
+- *Working with Components.* 
 ## Chapter 5 :+1:
 - *Conditional rendering.* Learnt about *props.children*, for inserting cintent into components from the outside. Learnt about the logical if '&&' operator and the ternary operator. 
 ## Chapter 6 :+1:
