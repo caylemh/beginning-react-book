@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import axios from 'axios';
 import ReactLoading from 'react-loading';
+import {Link} from 'react-router-dom';
 import {Media, Form, FormGroup, FormControl, Button} from 'react-bootstrap';
 
 class GitHub extends Component {
@@ -42,15 +43,10 @@ class GitHub extends Component {
     render() {
         const listUsers = this.state.data.map((user) => 
             <Media key={user.id}>
-                    <a href={user.html_url}>
-                        <img 
-                        width={64} 
-                        height={64}
-                        className='mr-3' 
-                        src={user.avatar_url}
-                        alt='Image'
-                        />
-                    </a>
+                <Link to={`/github/user/${user.login}/${user.score}`}>
+                    <img width={64} height={64} src={user.avatar_url}
+                    alt='AvImage' />
+                </Link>
                 <Media.Body>
                     <h3>{user.login}</h3>
                     <p>Score: { user.score }</p>

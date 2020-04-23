@@ -2,19 +2,21 @@
 This repository contains my progressions through the book, *Beginning React - Greg Lim*.
 
 ## Chapter 1 :+1:
-- Introduction and Setup. 
+- *Introduction and Setup.*
 ## Chapter 2 :+1:
 - Creating my Products component in a seperate file & importing that file into my main app component file (App.js). I also got an introduction to arrow functions, some ES6 coding conventions & creating and woking with arrays. 
 ## Chapter 3 :+1:
-- CSS Class Bindings, Props, adding local State and handling Events. 
+- *CSS Class Bindings, Props, adding local State and handling Events.* 
 ## Chapter 4 :+1:
 - Working with Components. 
 ## Chapter 5 :+1:
-- Conditional rendering. Learnt about *props.children*, for inserting cintent into components from the outside. Learnt about the logical if '&&' operator and the ternary operator. 
+- *Conditional rendering.* Learnt about *props.children*, for inserting cintent into components from the outside. Learnt about the logical if '&&' operator and the ternary operator. 
 ## Chapter 6 :+1:
-- Building forms using *Formik*. Also learnt how to handle from inputs, handle specific form field validation errors and perform form submissions. 
+- *Building forms using Formik.* Also learnt how to handle from inputs, handle specific form field validation errors and perform form submissions. 
 ## Chapter 7
-- Getting data from RESTful APIs with Axios.  Created a GitHub User Search App using Axios to connect my React app to the GitHub RESTful api using Promises, component lifecycle hooks & displaying a loader icon (react-loading).
+- *Getting data from RESTful APIs with Axios.*  Created a GitHub User Search App using Axios to connect my React app to the GitHub RESTful api using Promises, component lifecycle hooks & displaying a loader icon (react-loading).
+## Chapter 8
+- *Routing.* Learnt to define, configure & render requested components using the 'Route' component. Also learnt how to provide route links, how to create routes with parameters & how to retrieve those parameters. 
 ________________________________________________________________________________________
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
