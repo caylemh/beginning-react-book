@@ -1,5 +1,6 @@
 {
   "name": "weather-react",
+  "homepage": "http://webtasks.co.za/React/Caylem/chap-8",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

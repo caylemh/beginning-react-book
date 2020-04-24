@@ -21,11 +21,11 @@ export default App;
 class Header extends Component {
   render() {
     return (
-      <BrowserRouter>
+      <BrowserRouter basename='/components'>
         <div>
           <Navbar bg='light' expand='lg'>
               <Navbar.Brand>
-                <a href="#">React-Bootstrap</a>
+                <a href="/">React-Bootstrap</a>
               </Navbar.Brand>
               <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Nav>
