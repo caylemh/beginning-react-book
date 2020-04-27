@@ -19,6 +19,8 @@ This repository contains my progressions through the book, *Beginning React - Gr
 - *Routing.* Learnt to define, configure & render requested components using the 'Route' component. Also learnt how to provide route links, how to create routes with parameters & how to retrieve those parameters. 
 ## Chapter 9 :+1:
 - *C.R.U.D. with Firebase.* The complete app is located in the *'CRUD App'* folder.
+## Chapter 10 :+1:
+- *Introduction to Redux.* Please refer to the HTML file in the *Chapter 10* folder.
 ________________________________________________________________________________________
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
