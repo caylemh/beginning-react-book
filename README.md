@@ -17,6 +17,8 @@ This repository contains my progressions through the book, *Beginning React - Gr
 - *Getting data from RESTful APIs with Axios.*  Created a GitHub User Search App using Axios to connect my React app to the GitHub RESTful api using Promises, component lifecycle hooks & displaying a loader icon (react-loading).
 ## Chapter 8 :+1:
 - *Routing.* Learnt to define, configure & render requested components using the 'Route' component. Also learnt how to provide route links, how to create routes with parameters & how to retrieve those parameters. 
+## Chapter 9 :+1:
+- *C.R.U.D. with Firebase.* The complete app is located in the *'CRUD App'* folder.
 ________________________________________________________________________________________
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
