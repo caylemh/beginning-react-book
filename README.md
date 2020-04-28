@@ -31,7 +31,11 @@ This repository contains my progressions through the book, *Beginning React - Gr
 ## Chapter 11 :+1:
 - *React with Redux.* Please refer to *Chapter 11* folder.
 ____________________________________________________________________________
+
 # The End - Book Completed :+1: :+1:
+
+____________________________________________________________________________
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
