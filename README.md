@@ -28,7 +28,10 @@ This repository contains my progressions through the book, *Beginning React - Gr
 - *C.R.U.D. with Firebase.* The complete app is located in the *'CRUD App'* folder.
 ## Chapter 10 :+1:
 - *Introduction to Redux.* Please refer to the HTML file in the *Chapter 10* folder.
-________________________________________________________________________________________
+## Chapter 11 :+1:
+- *React with Redux.* Please refer to *Chapter 11* folder.
+____________________________________________________________________________
+# The End - Book Completed :+1: :+1:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
